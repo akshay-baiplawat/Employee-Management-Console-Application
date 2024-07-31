@@ -1,42 +1,42 @@
 # Employee-Management-Console-Application
-  # Overview
-  ```bash
-The Employee Management Console Application is a comprehensive, console-based solution designed to efficiently manage
-and retrieve employee data. It offers advanced search capabilities with filters, optimized data sourcing,
+  ### Overview
+The Employee Management Console Application is a comprehensive, console-based solution designed to efficiently manage\
+and retrieve employee data. It offers advanced search capabilities with filters, optimized data sourcing,\
 and a user-friendly interface for seamless operation.
-```
-  # Features
-  ```bash
-  • Employee Data Management: Add, update, delete, and view employee records.
-  • Advanced Search: Search for employees based on various filters such as name, department, and ID.
-  • Data Sourcing: Optimized data retrieval using text files.
+
+  ### Features
+  
+  • Employee Data Management: Add, update, delete, and view employee records.\
+  • Advanced Search: Search for employees based on various filters such as name, department, and ID.\
+  • Data Sourcing: Optimized data retrieval using text files.\
   • User-Friendly Interface: Intuitive console interface for easy navigation and operation.
-  ```
-  # Technologies Used
-  ```bash
-  • Programming Language: C++
-  • Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms
+  
+  ### Technologies Used
+  
+  • Programming Language: C++\
+  • Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms\
   • Development Environment: Windows C++, CMake
-```
-```bash 
+
 Installation
 Clone the Repository
-
+```bash 
 git clone https://github.com/akshay-baiplawat/Employee-Management-Console-Application.git
+```
 Navigate to the Project Directory
-
+```bash 
 cd Employee-Management-Console-Application
-
+```
 Build the Project
 Make sure you have CMake installed.
-
+```bash 
 Run the following commands:
 mkdir build
 cd build
 cmake ..
 make
-
+```
 Run the Application
+```bash 
 ./EmployeeManagementApp
 ```
 #  Usage
